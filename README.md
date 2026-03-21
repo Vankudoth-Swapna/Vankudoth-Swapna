@@ -7,7 +7,7 @@ Hi, I'm Vankudoth Swapna 👋
 -🌐 Portfolio/LinkedIn: https://www.linkedin.com/in/vankudoth-swapna-4365723b8/ • 📫 Email: vankudothswapna192@gmail.com
 
 ### Tech Stack
-Java, Spring Boot, React, HTML/CSS, JavaScript, MySQL, Git, Docker, JUnit, GitHub Actions
+Java, Spring Boot, REST API, React, HTML/CSS, JavaScript, MySQL, Git, Docker, JUnit, GitHub Actions
 
 ### Projects (Pinned below)
 1. **Student Management System** – Full Stack CRUD, Auth, REST APIs  
