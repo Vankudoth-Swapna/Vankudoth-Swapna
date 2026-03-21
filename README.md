@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Vankudoth Swapna 👋  
+**Java Full-Stack Developer** — Java • Spring Boot • React • MySQL • REST APIs • Docker • GitHub Actions
 
-<!--
-**Vankudoth-Swapna/Vankudoth-Swapna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-🔭 Current project: **Student Management System** (Spring Boot + MySQL + React)  
+-✅ I write tests with JUnit and use GitHub Actions (CI/CD)  
+-🌱 Learning: Spring Security, Caching, System Design Basics  
+-🌐 Portfolio/LinkedIn: https://www.linkedin.com/in/vankudoth-swapna-4365723b8/ • 📫 Email: vankudothswapna192@gmail.com
 
-Here are some ideas to get you started:
+### Tech Stack
+Java, Spring Boot, React, HTML/CSS, JavaScript, MySQL, Git, Docker, JUnit, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects (Pinned below)
+1. **Student Management System** – Full Stack CRUD, Auth, REST APIs  
+2. **E-Commerce App** – Spring Boot + React + MySQL  
+3. **ToDo App** – Java + Spring Boot + REST API
+
+### Connect with me
+- LinkedIn: https://www.linkedin.com/in/vankudoth-swapna-4365723b8/  
+- Email: vankudothswapna192@gmail.com
