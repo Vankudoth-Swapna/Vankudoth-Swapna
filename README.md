@@ -14,6 +14,3 @@ Java, Spring Boot, REST API, React, HTML/CSS, JavaScript, MySQL, Git, Docker, JU
 2. **E-Commerce App** – Spring Boot + React + MySQL  
 3. **ToDo App** – Java + Spring Boot + REST API
 
-### Connect with me
-- LinkedIn: https://www.linkedin.com/in/vankudoth-swapna-4365723b8/  
-- Email: vankudothswapna192@gmail.com
