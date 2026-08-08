@@ -4,7 +4,7 @@ Hi, I'm Vankudoth Swapna 👋
 -🔭 Current project: **Student Management System** (Spring Boot + MySQL + React)  
 -✅ I write tests with JUnit and use GitHub Actions (CI/CD)  
 -🌱 Learning: Spring Security, Caching, System Design Basics  
--🌐 Portfolio/LinkedIn: https://www.linkedin.com/in/vankudoth-swapna-4365723b8/ • 📫 Email: vankudothswapna192@gmail.com
+-🌐 Portfolio/LinkedIn: https://www.linkedin.com/in/vankudoth-swapna • 📫 Email: vankudothswapna192@gmail.com
 
 ### Tech Stack
 Java, Spring Boot, REST API, React, HTML/CSS, JavaScript, MySQL, Git, Docker, JUnit, GitHub Actions
